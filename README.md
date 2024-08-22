@@ -4,5 +4,3 @@ Boa noite, vamos iniciar nossos trabalhos...git
 Mais uma update.
 
 Teste VSCode - Gabriel
-
-
