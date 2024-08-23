@@ -32,7 +32,7 @@ Para cada *feature*, uma *issue* precisa ser aberta. A issue deve ser assinalada
 
 1. O diretório criado contendo o resultado dos exercícios deverá se chamar **WorkGit**, sendo o mesmo ao final, compartilhado no diretório voltado para respostas de exercícios;
 
-1. Na pŕoxima quartaa-feira (28/08), cada aluno terá 15 minutos para apresentar a resolução dessa tarefa.
+1. Na pŕoxima quarta-feira (28/08), cada aluno terá 15 minutos para apresentar a resolução dessa tarefa.
 
 **Bom trabalho a todos!!!**
 
