@@ -4,3 +4,5 @@
 *.csv
 
 .ipynb_checkpoints/
+DS_Unesp
+*.txt
