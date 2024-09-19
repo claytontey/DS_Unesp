@@ -2,7 +2,7 @@
 ######################
 
 *.csv
-
+/venv
 .ipynb_checkpoints/
 DS_Unesp
 *.txt
