@@ -7,7 +7,7 @@ Agora, esse nosso ##README, conterá as informações da organização do nosso 
 
 * Aula 5 - Operações Matriciais Numpy ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Numpy.pdf)), ([Notebook](https://github.com/claytontey/DS_Unesp/blob/main/src/aula6-Numpy.ipynb)).
 
-* Aula 6 - Introdução ao Pandas ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Pandas1.pdf)).
+* Aula 6 - Introdução ao Pandas ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Pandas1.pdf)), ([Notebook_1](https://github.com/claytontey/DS_Unesp/blob/main/src/Pandas_introducao.ipynb), ([Notebook_2](https://github.com/claytontey/DS_Unesp/blob/main/src/Pandas_aula2.ipynb))).
 
 * Dataset - Os conjuntos de dados que iremos utilizar durante nossas aulas, estarão disponíveis no repositório ([datasets](https://github.com/claytontey/DS_Unesp/tree/main/Datasets)).
 
