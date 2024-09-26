@@ -9,5 +9,7 @@ Agora, esse nosso ##README, conterá as informações da organização do nosso 
 
 * Aula 6 - Introdução ao Pandas ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Pandas1.pdf)), ([Notebook_1](https://github.com/claytontey/DS_Unesp/blob/main/src/Pandas_introducao.ipynb)), ([Notebook_2](https://github.com/claytontey/DS_Unesp/blob/main/src/Pandas_aula2.ipynb)).
 
+* Aula 7 - Pandas dados Missing ([Notebook](https://github.com/claytontey/DS_Unesp/blob/main/src/Missing_Pandas.ipynb)).
+
 * Dataset - Os conjuntos de dados que iremos utilizar durante nossas aulas, estarão disponíveis no repositório ([datasets](https://github.com/claytontey/DS_Unesp/tree/main/Datasets)).
 
