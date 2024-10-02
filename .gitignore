@@ -6,3 +6,6 @@
 .ipynb_checkpoints/
 DS_Unesp
 *.txt
+
+yuki_venv/
+requirements.txt
