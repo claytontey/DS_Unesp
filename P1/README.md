@@ -6,7 +6,7 @@ Bem-vindo à avaliação de ciência de dados. O objetivo é aplicar as técnica
 1. **Clone este repositório para sua máquina local:**
    -  1.1 Crie um novo branch para realizar as suas alterações;
 
-   -  1.2 Acessc o diretótio ([dataset](https://github.com/claytontey/DS_Unesp/blob/main/aulas/GitHub_1.pdf)) contendo os conjuntos de dados que serão utilizados nas tarefas. utilize o arquivo ([p1.ipynb](https://github.com/claytontey/DS_Unesp/tree/main/Work_Git)) para descrever suas respostas.
+   -  1.2 Acessc o diretótio ([dataset](https://github.com/claytontey/DS_Unesp/blob/main/aulas/GitHub_1.pdf)) contendo os conjuntos de dados que serão utilizados nas tarefas. utilize o arquivo ([p1.ipynb](https://github.com/claytontey/DS_Unesp/blob/main/P1/p1.ipynb)) para descrever suas respostas.
  
 ## Análise de Dados
 2. **Tarefa de Ciência de Dados**
