@@ -11,9 +11,9 @@ Agora, esse nosso # README, conterá as informações da organização do nosso 
 
 * Aula 7 - Pandas dados Missing ([Notebook](https://github.com/claytontey/DS_Unesp/blob/main/src/Missing_Pandas.ipynb)).
 
-* Aula 8 - P1 ([Instruções](https://github.com/claytontey/DS_Unesp/blob/main/P1/README.md)), ([Notebook-Correcão](https://github.com/claytontey/DS_Unesp/blob/main/src/p1_respostas.ipynb))
+* Aula 8 - P1 ([Instruções](https://github.com/claytontey/DS_Unesp/blob/main/P1/README.md)), ([Notebook-Correcão](https://github.com/claytontey/DS_Unesp/blob/main/src/p1_respostas.ipynb)).
 
-* Aula 9 - Estatística ([Exercícios](https://github.com/claytontey/DS_Unesp/tree/main/Estatistica))
+* Aula 9 - Estatística ([Exercícios](https://github.com/claytontey/DS_Unesp/tree/main/Estatistica)), ([Slide](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estat%C3%ADstica_para_Data_Science.pdf)).
 
 * Dataset - Os conjuntos de dados que iremos utilizar durante nossas aulas, estarão disponíveis no repositório ([datasets](https://github.com/claytontey/DS_Unesp/tree/main/Datasets)).
 
