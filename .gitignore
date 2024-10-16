@@ -1,5 +1,5 @@
 # Logs and databases #
 ######################
 
-
+*.csv
 *.txt
