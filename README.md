@@ -15,7 +15,7 @@ Agora, esse nosso # README, conterá as informações da organização do nosso 
 
 * Aula 9 - Estatística ([Slide](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estat%C3%ADstica_para_Data_Science.pdf)), ([Exercícios](https://github.com/claytontey/DS_Unesp/tree/main/Estatistica)).
 
-* Aula 10 - Testes Estatísticos ([Anotações](https://github.com/claytontey/DS_Unesp/tree/main/Estatistica/Analises)), ([Código Python Exemplo](https://github.com/claytontey/DS_Unesp/blob/main/src/horas_trabalhadas.py))
+* Aula 10 - Testes Estatísticos [(Anotações)[https://github.com/claytontey/DS_Unesp/tree/main/Estatistica/Analises]]
 
 * Dataset - Os conjuntos de dados que iremos utilizar durante nossas aulas, estarão disponíveis no repositório ([datasets](https://github.com/claytontey/DS_Unesp/tree/main/Datasets)).
 
