@@ -19,7 +19,7 @@ Agora, esse nosso # README, conterá as informações da organização do nosso 
 
 * Aula 11 - Conhecimento Inserto ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/conhecimento_inserto.pdf)), ([Anotações](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Bayes.pdf)).
 
-* Aula 12 - Deploy ([Aula](https://github.com/claytontey/DS_Unesp/blob/main/Deploy/Aula_Streamlit.pdf)), ([Anotações](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Bayes.pdf)), ([API](https://github.com/claytontey/DS_Unesp/tree/main/Deploy/api)).
+* Aula 12 - Deploy ([Aula](https://github.com/claytontey/DS_Unesp/blob/main/Deploy/Aula_Streamlit.pdf)), ([API](https://github.com/claytontey/DS_Unesp/tree/main/Deploy/api)).
 
 * Dataset - Os conjuntos de dados que iremos utilizar durante nossas aulas, estarão disponíveis no repositório ([datasets](https://github.com/claytontey/DS_Unesp/tree/main/Datasets)).
 
