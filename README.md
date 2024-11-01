@@ -15,11 +15,11 @@ Agora, esse nosso # README, conterá as informações da organização do nosso 
 
 * Aula 9 - Estatística ([Slide](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estat%C3%ADstica_para_Data_Science.pdf)), ([Exercícios](https://github.com/claytontey/DS_Unesp/tree/main/Estatistica)).
 
-* Aula 10 - Testes Estatísticos ([Anotações](https://github.com/claytontey/DS_Unesp/tree/main/Estatistica/Analises)), ([API](https://github.com/claytontey/DS_Unesp/tree/main/Deploy/api))
+* Aula 10 - Testes Estatísticos ([Anotações](https://github.com/claytontey/DS_Unesp/tree/main/Estatistica/Analises)).
 
 * Aula 11 - Conhecimento Inserto ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/conhecimento_inserto.pdf)), ([Anotações](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Bayes.pdf)).
 
-* Aula 12 - Deploy ([Aula](https://github.com/claytontey/DS_Unesp/blob/main/Deploy/Aula_Streamlit.pdf)), ([Anotações](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Bayes.pdf)).
+* Aula 12 - Deploy ([Aula](https://github.com/claytontey/DS_Unesp/blob/main/Deploy/Aula_Streamlit.pdf)), ([Anotações](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Bayes.pdf)), ([API](https://github.com/claytontey/DS_Unesp/tree/main/Deploy/api)).
 
 * Dataset - Os conjuntos de dados que iremos utilizar durante nossas aulas, estarão disponíveis no repositório ([datasets](https://github.com/claytontey/DS_Unesp/tree/main/Datasets)).
 
