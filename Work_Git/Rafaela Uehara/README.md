@@ -1,2 +1,0 @@
-Rafaela Ayumi Uehara
-
