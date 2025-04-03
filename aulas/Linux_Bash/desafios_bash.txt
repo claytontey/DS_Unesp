@@ -1,0 +1,27 @@
+
+# Lista de Desafios em Bash
+
+## 🟢 Nível 1 - Básico
+1. Acesse sua pasta pessoal e crie uma pasta chamada `meu_projeto`
+2. Crie um arquivo chamado `dados.txt` com o conteúdo:
+   nome,idade
+   Ana,22
+   Bruno,30
+   Carla,25
+3. Liste o conteúdo da pasta
+4. Copie `dados.txt` para o diretório criado
+
+## 🟡 Nível 2 - Manipulação de texto
+5. Use `cat`, `head` e `tail` para visualizar partes do arquivo
+6. Use `grep` para filtrar apenas as linhas com "a"
+7. Use `cut` para exibir só o nome das pessoas
+
+## 🔴 Nível 3 - Script Bash simples
+8. Crie um arquivo `seunome_sobrenome.sh` que pergunta o nome do usuário e exibe:
+   Olá, NOME! Seja bem-vindo à aula de Bash!
+   Crie um código em python para leitura de um dataset e faça a sua chamada via bash, direcionando sua saída para um novo diretório.
+9. Dê permissão de execução
+10. Execute o arquivo.sh e entregue esse script em `/home/trabalhos`
+11. O código citado deve estar dentro do diretório Work_Git/SEU-NOME
+
+Bom estudo! 💻🚀
