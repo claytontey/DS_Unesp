@@ -8,3 +8,5 @@ Agora, esse nosso # README, conterá as informações da organização do nosso 
 * Aula 6 - Lógica Matemática ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Logica_Matematica/Lógica_Matemática.pdf)), ([src](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Logica_Matematica/Curso_de_Estatística_Parte_1.ipynb)).
 
 * Aula 7 - Estatística I ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/Estatística_I.pdf)).
+
+* Aula 8 - Estatística II ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/Estatística_II.pdf)), ([Trabalhi](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/trab1_estatistica.tex)).
