@@ -9,4 +9,4 @@ Agora, esse nosso # README, conterá as informações da organização do nosso 
 
 * Aula 7 - Estatística I ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/Estatística_I.pdf)).
 
-* Aula 8 - Estatística II ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/Estatística_II.pdf)), ([Trabalhi](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/trab1_estatistica.tex)).
+* Aula 8 - Estatística II ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/Estatística_II.pdf)), ([Trabalho I](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/trab1_estatistica.tex)).
