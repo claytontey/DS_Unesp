@@ -1,0 +1,1 @@
+Professor, meu computador tem problemas para exportar o notebook direto para pdf, então tenho que exportar para html primeiro, o unico problema é que ao imprimir do html pra pdf ele corta um pouco do código e diminui a qualidade da imagem, por conta disso também estou mandando o arquivo .html

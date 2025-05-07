@@ -1,0 +1,8 @@
+Detalhamento dos arquivos:
+
+- Uma planilha com os dados obtidos no form (P1 Ciência de Dados - Clayton (dados coletados).xlxs)
+  > Link para o form: https://forms.gle/xA7FxcsPR5MZG4mE8; 
+
+- Um pdf com análises feitas a partir das respostas no form (P1 - Relatório de Estatística Aplicada (Análises).pdf); 
+
+- O arquivo gerado na íntegra no Notebook do Colab para realizar os códigos de cálculos estatísticos/gráficos (P1_Relatório_de_Estatística_Aplicada.ipynb), além do pdf gerado a partir do colab (P1 - Relatório de Estatística Aplicada (Código).pdf);
