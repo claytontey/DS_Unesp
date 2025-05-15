@@ -12,3 +12,5 @@ Agora, esse nosso # README, conterá as informações da organização do nosso 
 * Aula 8 - Estatística II ([Slides](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/Estatística_II.pdf)), ([Trabalho I](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/trab1_estatistica.tex)).
 
 * Aula 9 - Estatística III ([Aula](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/Estatística_III-aula.pdf)), ([Exercício](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/Exercícios_Estatistica_III.pdf)).
+
+* Aula 10 - Variáveis (Dependentes e Independetens) ([Aula](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/relação_Variavaies.pdf)), ([Exercício](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/Análise_Descritiva.ipynb)).
