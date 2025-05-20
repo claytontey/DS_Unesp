@@ -13,4 +13,4 @@ Agora, esse nosso # README, conterá as informações da organização do nosso 
 
 * Aula 9 - Estatística III ([Aula](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/Estatística_III-aula.pdf)), ([Exercício](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Estatistica/Exercícios_Estatistica_III.pdf)).
 
-* Aula 10 - Variáveis (Dependentes e Independetens) ([Aula](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/relação_Variavaies.pdf)), ([Exercício](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/Análise_Descritiva.ipynb)), ([Livro](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/os-sample.pdf)).
+* Aula 10 - Variáveis (Dependentes e Independetens) ([Aula](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/relação_Variavaies.pdf)), ([Exercício](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/Análise_Descritiva.ipynb)), ([Livro](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/os-sample.pdf)), ([Dataset](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/dados.csv)).
