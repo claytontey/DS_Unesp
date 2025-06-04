@@ -1,5 +1,9 @@
 # Logs and databases #
 ######################
 
-*.csv
+.csv
 *.txt
+*.doc
+aulas/Hipotese/lanchonete.csv
+aulas/.ipynb_checkpoints/
+aulas/exemplos/
