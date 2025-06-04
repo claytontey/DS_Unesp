@@ -3,7 +3,7 @@
 
 .csv
 *.txt
-*.doc
+*.docx
 aulas/Hipotese/lanchonete.csv
 aulas/.ipynb_checkpoints/
 aulas/exemplos/
