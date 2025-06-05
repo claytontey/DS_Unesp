@@ -4,7 +4,7 @@
 .csv
 *.txt
 *.docx
-.ipynb
+*.ipynb
 aulas/Hipotese/lanchonete.csv
 aulas/.ipynb_checkpoints/
 aulas/exemplos/
