@@ -17,4 +17,4 @@ Agora, esse nosso # README, conterá as informações da organização do nosso 
 
 * Aula 11 - Hands-on ([Qui-quadrado](https://github.com/claytontey/DS_Unesp/tree/main/aulas/hands_on/qui-quadrado))
 
-* Seminário e Projeto Final - ([Duplas]())
+* Seminário e Projeto Final - ([Duplas](https://github.com/claytontey/DS_Unesp/tree/main/Seminarios))
