@@ -16,3 +16,5 @@ Agora, esse nosso # README, conterá as informações da organização do nosso 
 * Aula 10 - Variáveis (Dependentes e Independetens) ([Aula](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/relação_Variavaies.pdf)), ([Exercício](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/Análise_Descritiva.ipynb)), ([Livro](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/os-sample.pdf)), ([Dataset](https://github.com/claytontey/DS_Unesp/blob/main/aulas/Variáveis/dados.csv)).
 
 * Aula 11 - Hands-on ([Qui-quadrado](https://github.com/claytontey/DS_Unesp/tree/main/aulas/hands_on/qui-quadrado))
+
+* Seminário e Projeto Final - ([Duplas]())
