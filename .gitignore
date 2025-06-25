@@ -3,3 +3,10 @@
 
 *.csv
 *.txt
+*.docx
+*.ipynb
+aulas/Hipotese/lanchonete.csv
+aulas/.ipynb_checkpoints/
+aulas/exemplos/
+projeto_Final/
+Testes/

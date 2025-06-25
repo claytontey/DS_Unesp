@@ -1,9 +1,0 @@
-Foram entregues os seguintes arquivos:
-
-- Uma planilha com os dados obtidos através do Google Forms ((FORMATADO)Música x Raciocínio_ Uma breve pesquisa - Respostas ao formulário 1 (1).csv)
-  > Segue também o Link para acesso ao formulário utilizado: https://docs.google.com/forms/d/e/1FAIpQLSfhZq3dY_XRHeSU4psPQqGso32TMLQfgbijeQS9HCJyUHEVaw/viewform?usp=header; 
-
-- Um arquivo pdf com relatório e análises feitas a partir das respostas do formulário e do arquivo ".csv" (P1 - Guilherme Mendonça Pinheiro (Relatório_Análise_PDF).pdf); 
-
-- O arquivo gerado na íntegra no Notebook do Colab para realizar os códigos de cálculos estatísticos/gráficos (P1_Guilherme_Mendonça_Pinheiro_(Código).ipynb),
-além do pdf gerado a partir do colab (P1 - Guilherme Mendonça Pinheiro (Código).pdf);
